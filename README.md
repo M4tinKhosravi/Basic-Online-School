@@ -1,3 +1,5 @@
+*This project is deprecated*
+
 # Basic-Online-School
 Basic online school was my first experience of designing an online learning platform. <br><br>
 After lockdowns due to Covid-19 pandemic, I faced serious problem in managing my school classes. So I started to design my own online class. <br><br>
